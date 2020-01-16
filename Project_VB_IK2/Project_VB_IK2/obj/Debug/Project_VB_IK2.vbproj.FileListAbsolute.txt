@@ -14,3 +14,16 @@ D:\MATERI KULIAH\Semester 3\VISUAL BASIC\Project_VB_IK2\Project_VB_IK2\obj\Debug
 D:\MATERI KULIAH\Semester 3\VISUAL BASIC\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.vbprojResolveAssemblyReference.cache
 D:\MATERI KULIAH\Semester 3\VISUAL BASIC\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.FCRPrint.resources
 D:\MATERI KULIAH\Semester 3\VISUAL BASIC\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.Form_Login.resources
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\bin\Debug\Project_VB_IK2.exe.config
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.exe
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.xml
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.pdb
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.vbprojResolveAssemblyReference.cache
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.Form_Admin.resources
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.Form_Barang.resources
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.Form_Login.resources
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.Form_Menu.resources
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.Form_Penjualan.resources
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.FCRPrint.resources
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.Resources.resources
+C:\Users\Dikzy Doo\Desktop\TUGAS_VB_14-01-2019\Project_VB_IK2\Project_VB_IK2\obj\Debug\Project_VB_IK2.vbproj.GenerateResource.Cache
